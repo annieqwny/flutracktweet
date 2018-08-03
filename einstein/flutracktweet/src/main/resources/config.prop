@@ -1,0 +1,5 @@
+DATE_FORMAT=yyyy-MM-dd
+URL_GET_LOCATIONS_BY_LATT_LONG=https://www.metaweather.com/api/location/search/?lattlong=
+URL_GET_META_WEATHER_BY_WOEID=https://www.metaweather.com/api/location/
+URL_GET_FLU_TRACK_TWEETS=http://api.flutrack.org/?s=
+NUMBER_OF_FLU_TRACK_TWEETS=10
